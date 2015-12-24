@@ -11,12 +11,11 @@
 
 ## 27th 난구 풀이
 
-
-
-
 전체동영상:
 
-[![Lesson 27-28th](The Lesson 27-28 - Choi Sung Won.mp4_20151224_130646.860.jpg)](https://youtu.be/3q6FHg-lJWM?list=PLdiHPZK7n67_POfEQbwuwxu3wdST9qnPJ)
+[![Lesson 27-28th](The Lesson 27-28 - Choi Sung Won.mp4_20151224_130646.860.jpg)](https://youtu.be/3q6FHg-lJWM)
+
+@[](https://youtu.be/3q6FHg-lJWM)
 
 
 ### 포지션1
@@ -79,5 +78,4 @@
 > 상단력이 적용되면, 휘어지는 라운드 현상이 발생하고, 각도 형성이 되지 않음.
 
 ![](The Lesson 27-28 - Choi Sung Won.mp4_20151224_130122.127.jpg)
-
 
