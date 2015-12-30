@@ -1,4 +1,4 @@
-﻿# The Lesson 27-28 - Choi Sung Won
+# The Lesson 27-28 - Choi Sung Won
 
 ## Contents
 
@@ -13,7 +13,7 @@
 
 전체동영상: 이미지 클릭
 
-[![Lesson 27-28th](The Lesson 27-28 - Choi Sung Won.mp4_20151224_130646.860.jpg)](https://youtu.be/3q6FHg-lJWM)
+[![Screen Shot](2015-12-30 14_44_43-The Lesson 27-28 - Choi Sung Won - YouTube - Chrome.png)](https://youtu.be/3q6FHg-lJWM)
 
 ## 27th 난구 풀이
 
