@@ -15,6 +15,8 @@
 
 [![Screen Shot](2015-12-30 14_44_43-The Lesson 27-28 - Choi Sung Won - YouTube - Chrome.png)](https://youtu.be/3q6FHg-lJWM)
 
+> **키스빼기의 가장 중요한 점은, 수구와 1적구의 교차 시점을 해결하는 것이다.**
+
 ## 27th 난구 풀이
 
 ### 포지션1
@@ -143,3 +145,25 @@
 
 ![움-요약](Honeycam 2015-12-29 12-29-12.gif)
 
+### 키스피하기3
+
+![키스피하기3](The Lesson 27-28 - Choi Sung Won.mp4_003528.917.jpg)
+
+편하게 치면 키스 발생
+![키스발생](Honeycam 2016-01-05 12-56-55.gif)
+![키스](The Lesson 27-28 - Choi Sung Won.mp4_003656.639.jpg)
+
+> ** 수구와 1적구의 교차가 중요**
+
+1. 수구를 길게 보내기 어렵다.
+2. 그래서 1적구를 두껍게, 1적구는 빠르게 횡단
+3. 수구는 느리게 이동.
+
+![노하우](The Lesson 27-28 - Choi Sung Won.mp4_003704.264.jpg)
+![두께](The Lesson 27-28 - Choi Sung Won.mp4_003838.867.jpg)
+
+**당점 / 두께 / 스트록 : 11시 3팁 / 3/4 / 부드럽게 밀어치기**
+**이 경우, 핵심은 1적구를 두껍께 맞혀서 수구의 속도를 낮추는 것**
+
+![움-해결](Honeycam 2016-01-05 13-21-46.gif)
+![정리](The Lesson 27-28 - Choi Sung Won.mp4_003958.483.jpg)
