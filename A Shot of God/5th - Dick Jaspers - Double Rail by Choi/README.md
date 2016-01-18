@@ -2,6 +2,8 @@
 
 Last Updated: 2016-01-18
 
+[![screen-shot](2016-01-18 13_00_04-최성원의 신의 한큐 5회, 야스퍼스 따라잡기 2016.01.11 - YouTube - Chrome.png)](https://youtu.be/c0bUK5Z6aRk?list=PLzurGo-x7TCZ1MEUgYkw4KASmC6uVoVHW)
+
 ## 딕 야스퍼스의 더블레일
 
 ![움-야스퍼스](Honeycam 2016-01-15 12-35-02.gif)
